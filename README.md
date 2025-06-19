@@ -1,2 +1,2 @@
 # polyocr
-This is a multilingual polyocr project.
+This is a multilingual polyocr group project.
